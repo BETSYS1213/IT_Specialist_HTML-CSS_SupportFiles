@@ -3,9 +3,14 @@
     font-family:"Segoe UI",Tahoma,sans-serif;
     background-color:#fab66b;
 }
+
 p {
     color: navy;
 }
+figcaption {
+    color: navy;
+     font-weight:bold;
+    background-color:aqua;
 a {
     text-decoration:none;
 }
