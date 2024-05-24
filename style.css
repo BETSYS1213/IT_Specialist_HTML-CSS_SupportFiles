@@ -42,5 +42,6 @@ background-color:#f1f2f1;
 .dropDown:hover .dropDown-content{
   display:block;
 }
-<body style="background-color:powderblue;">
+body {
+  background-color: lightblue;
 }
